@@ -69,7 +69,7 @@ const ImageSlider = () => {
                   <img
                     key={num}
                     src={`${num}.png`}
-                    alt={`Image ${num}`}
+                    alt={`${num} `}
                     className="w-[105px] h-[177px] object-cover"
                   />
                 ))}
@@ -85,6 +85,7 @@ const ImageSlider = () => {
               size="sm"
               onClick={copyImageToClipboard}
               className="flex items-center gap-2"
+              id="copyButton"
             >
               {copying ? (
                 <>

@@ -31,3 +31,7 @@ h1 {
   border-style: solid;
   border-color: #fff;
 }
+
+#copyButton:hover {
+  background-color: rgb(255, 255, 255);
+}
