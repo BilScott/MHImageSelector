@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/MoodDude/static/css/main.90223a0b.css",
-    "main.js": "/MoodDude/static/js/main.8d9079ef.js",
-    "static/js/453.c7c2022c.chunk.js": "/MoodDude/static/js/453.c7c2022c.chunk.js",
-    "index.html": "/MoodDude/index.html",
-    "main.90223a0b.css.map": "/MoodDude/static/css/main.90223a0b.css.map",
-    "main.8d9079ef.js.map": "/MoodDude/static/js/main.8d9079ef.js.map",
-    "453.c7c2022c.chunk.js.map": "/MoodDude/static/js/453.c7c2022c.chunk.js.map"
+    "main.css": "/MHImageSelector/static/css/main.90223a0b.css",
+    "main.js": "/MHImageSelector/static/js/main.1138949a.js",
+    "static/js/453.c7c2022c.chunk.js": "/MHImageSelector/static/js/453.c7c2022c.chunk.js",
+    "index.html": "/MHImageSelector/index.html",
+    "main.90223a0b.css.map": "/MHImageSelector/static/css/main.90223a0b.css.map",
+    "main.1138949a.js.map": "/MHImageSelector/static/js/main.1138949a.js.map",
+    "453.c7c2022c.chunk.js.map": "/MHImageSelector/static/js/453.c7c2022c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.90223a0b.css",
-    "static/js/main.8d9079ef.js"
+    "static/js/main.1138949a.js"
   ]
 }
